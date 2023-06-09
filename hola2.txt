@@ -1,4 +1,9 @@
 hi
 Nijao
 
+<<<<<<< HEAD
 Como estas?
+=======
+
+Good c:
+>>>>>>> 5063dde691160c46773f31f94e44e604b1ad6a66
